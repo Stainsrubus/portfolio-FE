@@ -1,2 +1,1 @@
-Tailwind css
-react-router-dom
+Deployed Link : https://admirable-frangipane-3b05a0.netlify.app
